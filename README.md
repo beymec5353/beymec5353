@@ -1,1 +1,2 @@
-# beymec5353
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]([profilinizin linki](https://www.linkedin.com/in/mecitmuslu/)https://www.linkedin.com/in/mecitmuslu/)
+
